@@ -1,0 +1,17 @@
+[01:27:06] [Server thread/INFO]: metaphalo was slain by Iron Golem
+[03:06:44] [Server thread/INFO]: metaphalo was slain by Enderman
+[03:06:45] [Server thread/WARN]: metaphalo moved too quickly! 70.15779489480065,-3.9999997999999977,13.193369004333022
+[03:21:23] [Server thread/INFO]: metaphalo lost connection: Disconnected
+[03:21:23] [Server thread/INFO]: metaphalo left the game
+[03:21:27] [Server thread/INFO]: Stopping server
+[03:21:27] [Server thread/INFO]: Saving players
+[03:21:27] [Server thread/INFO]: Saving worlds
+[03:21:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[03:21:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:21:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[03:21:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:21:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[03:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

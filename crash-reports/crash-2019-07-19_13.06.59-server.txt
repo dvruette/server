@@ -1,0 +1,44 @@
+---- Minecraft Crash Report ----
+// Hi. I'm Minecraft, and I'm a crashaholic.
+
+Time: 19.07.19 13:06
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: Java heap space
+	at java.lang.Object.clone(Native Method)
+	at lp.<init>(SourceFile:50)
+	at uu.a(SourceFile:1015)
+	at uu.a(SourceFile:734)
+	at uu.a(SourceFile:823)
+	at uu.a(SourceFile:949)
+	at vg.d(SourceFile:441)
+	at vi.m(SourceFile:952)
+	at vi.f(SourceFile:867)
+	at vi.c(SourceFile:846)
+	at xt.a(SourceFile:183)
+	at wc.c(SourceFile:111)
+	at wc.b(SourceFile:63)
+	at jb.a(SourceFile:239)
+	at vz.c(SourceFile:171)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:836)
+	at ui.b(SourceFile:343)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:763)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:631)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.14.3
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_221, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 63688 bytes (0 MB) / 259522560 bytes (247 MB) up to 259522560 bytes (247 MB)
+	JVM Flags: 0 total; 
+	Player Count: 2 / 20; [vj['metaphalo'/2473, l='world', x=200.44, y=109.00, z=222.15], vj['Tungi97'/2857, l='world', x=146.63, y=74.00, z=137.43]]
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
