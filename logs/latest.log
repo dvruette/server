@@ -1,17 +1,39 @@
-[01:27:06] [Server thread/INFO]: metaphalo was slain by Iron Golem
-[03:06:44] [Server thread/INFO]: metaphalo was slain by Enderman
-[03:06:45] [Server thread/WARN]: metaphalo moved too quickly! 70.15779489480065,-3.9999997999999977,13.193369004333022
-[03:21:23] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[03:21:23] [Server thread/INFO]: metaphalo left the game
-[03:21:27] [Server thread/INFO]: Stopping server
-[03:21:27] [Server thread/INFO]: Saving players
-[03:21:27] [Server thread/INFO]: Saving worlds
-[03:21:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[03:21:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:21:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[03:21:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:21:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[03:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:05:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:05:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:05:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:05:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:05:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:05:57] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[20:05:57] [Server thread/INFO]: Loading properties
+[20:05:57] [Server thread/INFO]: Default game type: SURVIVAL
+[20:05:57] [Server thread/INFO]: Generating keypair
+[20:05:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:05:58] [Server thread/INFO]: Using default channel type
+[20:05:59] [Server thread/INFO]: Preparing level "world"
+[20:05:59] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:05:59] [Server thread/INFO]: Loaded 6 recipes
+[20:05:59] [Server thread/INFO]: Loaded 811 advancements
+[20:05:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:06:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:01] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:01] [Server thread/INFO]: Time elapsed: 1278 ms
+[20:06:01] [Server thread/INFO]: Done (1.957s)! For help, type "help"
+[20:06:46] [User Authenticator #1/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
+[20:06:46] [Server thread/INFO]: metaphalo[/127.0.0.1:50429] logged in with entity id 182 at (-3403.6946541652824, 63.0, 784.8089262039456)
+[20:06:46] [Server thread/INFO]: metaphalo joined the game
+[20:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2865ms or 57 ticks behind
+[22:37:13] [Server thread/INFO]: metaphalo lost connection: Disconnected
+[22:37:13] [Server thread/INFO]: metaphalo left the game
+[22:37:18] [Server thread/INFO]: Stopping server
+[22:37:18] [Server thread/INFO]: Saving players
+[22:37:18] [Server thread/INFO]: Saving worlds
+[22:37:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:37:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:37:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
