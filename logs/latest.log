@@ -1,74 +1,130 @@
-[16:43:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:43:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:43:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:45] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[16:43:45] [Server thread/INFO]: Loading properties
-[16:43:45] [Server thread/INFO]: Default game type: SURVIVAL
-[16:43:45] [Server thread/INFO]: Generating keypair
-[16:43:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:43:46] [Server thread/INFO]: Using default channel type
-[16:43:47] [Server thread/INFO]: Preparing level "world"
-[16:43:47] [Server thread/INFO]: Reloading ResourceManager: Default
-[16:44:48] [Server thread/INFO]: Loaded 6 recipes
-[16:44:48] [Server thread/INFO]: Loaded 811 advancements
-[16:44:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:55] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:56] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:56] [Server thread/INFO]: Preparing spawn area: 0%
-[16:44:57] [Server thread/INFO]: Preparing spawn area: 82%
-[16:44:57] [Server thread/INFO]: Time elapsed: 8773 ms
-[16:44:57] [Server thread/INFO]: Done (70.934s)! For help, type "help"
-[16:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[16:45:18] [User Authenticator #1/INFO]: UUID of player Tungi97 is 5a49c4ab-0ffe-4564-81f0-3f8ca91f3cf7
-[16:45:19] [Server thread/INFO]: Tungi97[/25.37.157.108:55186] logged in with entity id 282 at (151.50542681612208, 64.0, 194.14637050479072)
-[16:45:19] [Server thread/INFO]: Tungi97 joined the game
-[16:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[16:45:26] [User Authenticator #2/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[16:45:27] [Server thread/INFO]: metaphalo[/127.0.0.1:54683] logged in with entity id 284 at (144.2940230006214, 60.0, 197.79664023994332)
-[16:45:27] [Server thread/INFO]: metaphalo joined the game
-[16:45:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5191ms or 103 ticks behind
-[16:50:11] [Server thread/WARN]: Tungi97 moved too quickly! -9.790551814116611,0.0,3.239044421734377
-[16:50:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4511ms or 90 ticks behind
-[16:52:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4660ms or 93 ticks behind
-[16:52:33] [Server thread/INFO]: Tungi97 has made the advancement [We Need to Go Deeper]
-[16:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19126ms or 382 ticks behind
-[16:53:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5480ms or 109 ticks behind
-[16:54:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14791ms or 295 ticks behind
-[16:54:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
-[16:54:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[16:56:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3682ms or 73 ticks behind
-[16:58:28] [Server thread/INFO]: Tungi97 has made the advancement [What a Deal!]
-[17:06:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
-[17:12:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[17:15:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:16:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[17:17:07] [Server thread/INFO]: Tungi97 has made the advancement [Hot Stuff]
-[17:20:17] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[17:20:17] [Server thread/INFO]: metaphalo left the game
-[17:20:23] [Server thread/INFO]: Stopping server
-[17:20:23] [Server thread/INFO]: Saving players
-[17:20:23] [Server thread/INFO]: Saving worlds
-[17:20:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:20:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:20:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:20:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:20:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:20:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:20:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:20:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:20:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:32:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:32:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:32:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:32:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:32:46] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[16:32:46] [Server thread/INFO]: Loading properties
+[16:32:46] [Server thread/INFO]: Default game type: SURVIVAL
+[16:32:46] [Server thread/INFO]: Generating keypair
+[16:32:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:32:47] [Server thread/INFO]: Using default channel type
+[16:32:48] [Server thread/INFO]: Preparing level "world"
+[16:32:48] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:33:08] [Server thread/INFO]: Loaded 6 recipes
+[16:33:09] [Server thread/INFO]: Loaded 811 advancements
+[16:33:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:33:13] [Server thread/INFO]: Time elapsed: 3740 ms
+[16:33:13] [Server thread/INFO]: Done (25.129s)! For help, type "help"
+[16:35:32] [User Authenticator #1/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
+[16:35:32] [Server thread/INFO]: metaphalo[/127.0.0.1:51348] logged in with entity id 168 at (-3406.664528752433, 63.0, 793.0005361181176)
+[16:35:33] [Server thread/INFO]: metaphalo joined the game
+[16:35:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4644ms or 92 ticks behind
+[16:36:12] [User Authenticator #2/INFO]: UUID of player Tungi97 is 5a49c4ab-0ffe-4564-81f0-3f8ca91f3cf7
+[16:36:13] [Server thread/INFO]: Tungi97[/25.37.157.108:57184] logged in with entity id 493 at (-3412.4325415475932, 71.0, 776.5232284329139)
+[16:36:13] [Server thread/INFO]: Tungi97 joined the game
+[16:36:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31030ms or 620 ticks behind
+[16:36:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8010ms or 160 ticks behind
+[16:37:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7547ms or 150 ticks behind
+[16:37:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6976ms or 139 ticks behind
+[16:37:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3733ms or 74 ticks behind
+[16:38:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2694ms or 53 ticks behind
+[16:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2948ms or 58 ticks behind
+[16:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
+[16:39:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:39:32] [Server thread/WARN]: Tungi97 moved too quickly! 1.8053905395677248,-0.3913679939575232,9.879928251073466
+[16:39:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7272ms or 145 ticks behind
+[16:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12575ms or 251 ticks behind
+[16:40:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7129ms or 142 ticks behind
+[16:41:25] [Server thread/WARN]: Tungi97 moved too quickly! 0.07048223919139218,0.0,-10.624664116346999
+[16:41:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[16:41:47] [Server thread/WARN]: Tungi97 moved too quickly! 10.847842164071423,0.12160004615783748,0.006145412402407402
+[16:41:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9541ms or 190 ticks behind
+[16:41:58] [Server thread/WARN]: Tungi97 moved too quickly! 10.288686330777708,0.0,-0.11295998988803646
+[16:42:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[16:42:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
+[16:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
+[16:45:26] [Server thread/WARN]: metaphalo moved wrongly!
+[16:48:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[16:48:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
+[16:48:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3582ms or 71 ticks behind
+[16:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[16:49:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16:49:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[16:49:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3630ms or 72 ticks behind
+[16:50:07] [User Authenticator #3/INFO]: UUID of player dermacguru is 3a86510c-1dc9-46ad-971d-bd749fa03193
+[16:50:07] [Server thread/INFO]: dermacguru[/25.37.162.129:52135] logged in with entity id 3853 at (143.5, 63.0, 186.5)
+[16:50:07] [Server thread/INFO]: dermacguru joined the game
+[16:50:07] [Server thread/WARN]: Fetching packet for removed entity ats['Sugar Cane'/3849, l='world', x=148.28, y=64.94, z=169.14]
+[16:50:07] [Server thread/WARN]: Fetching packet for removed entity ats['Sugar Cane'/3850, l='world', x=145.55, y=64.79, z=169.14]
+[16:50:07] [Server thread/WARN]: Fetching packet for removed entity ats['Sugar Cane'/3852, l='world', x=149.61, y=64.73, z=169.14]
+[16:50:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
+[16:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
+[16:50:39] [Server thread/INFO]: dermacguru lost connection: Timed out
+[16:50:39] [Server thread/INFO]: dermacguru left the game
+[16:50:46] [User Authenticator #4/INFO]: UUID of player dermacguru is 3a86510c-1dc9-46ad-971d-bd749fa03193
+[16:50:46] [Server thread/INFO]: dermacguru[/25.37.162.129:52143] logged in with entity id 4100 at (143.5, 63.0, 186.5)
+[16:50:46] [Server thread/INFO]: dermacguru joined the game
+[16:51:02] [Server thread/INFO]: dermacguru lost connection: Disconnected
+[16:51:02] [Server thread/INFO]: dermacguru left the game
+[16:51:50] [Server thread/INFO]: Tungi97 has made the advancement [Take Aim]
+[16:52:28] [User Authenticator #5/INFO]: UUID of player dermacguru is 3a86510c-1dc9-46ad-971d-bd749fa03193
+[16:52:28] [Server thread/INFO]: dermacguru[/25.37.162.129:52165] logged in with entity id 4641 at (143.5, 63.0, 186.5)
+[16:52:28] [Server thread/INFO]: dermacguru joined the game
+[16:54:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16:55:17] [Server thread/INFO]: [metaphalo: Made dermacguru a server operator]
+[16:55:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16:55:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[16:56:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16:57:05] [Server thread/INFO]: dermacguru has made the advancement [Acquire Hardware]
+[16:57:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2987ms or 59 ticks behind
+[16:57:36] [Server thread/INFO]: dermacguru has made the advancement [Isn't It Iron Pick]
+[16:58:14] [Server thread/INFO]: dermacguru has made the advancement [Suit Up]
+[17:00:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
+[17:02:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8287ms or 165 ticks behind
+[17:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6790ms or 135 ticks behind
+[17:03:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5569ms or 111 ticks behind
+[17:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9753ms or 195 ticks behind
+[17:03:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4168ms or 83 ticks behind
+[17:04:04] [Server thread/INFO]: dermacguru has made the advancement [Monster Hunter]
+[17:04:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17:05:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[17:05:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[17:06:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
+[17:06:41] [Server thread/WARN]: dermacguru moved too quickly! -2.531295737432231,3.0,-9.385829500719353
+[17:06:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6051ms or 121 ticks behind
+[17:10:41] [Server thread/INFO]: dermacguru was shot by Skeleton
+[17:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[17:11:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
+[17:11:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2572ms or 51 ticks behind
+[17:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[17:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3900ms or 78 ticks behind
+[17:12:01] [Server thread/WARN]: Tungi97 moved too quickly! 8.054536461611747,0.0,-5.992916227533215
+[17:12:16] [Server thread/INFO]: Tungi97 lost connection: Disconnected
+[17:12:16] [Server thread/INFO]: Tungi97 left the game
+[17:12:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8465ms or 169 ticks behind
+[17:15:46] [Server thread/INFO]: dermacguru lost connection: Disconnected
+[17:15:46] [Server thread/INFO]: dermacguru left the game
+[17:17:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[17:17:12] [Server thread/INFO]: metaphalo lost connection: Disconnected
+[17:17:12] [Server thread/INFO]: metaphalo left the game
+[17:17:19] [Server thread/INFO]: Stopping server
+[17:17:19] [Server thread/INFO]: Saving players
+[17:17:19] [Server thread/INFO]: Saving worlds
+[17:17:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:17:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:17:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:17:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:17:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:17:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:17:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:17:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:17:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
