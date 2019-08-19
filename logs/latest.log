@@ -1,16 +1,65 @@
-[00:27:22] [Server thread/INFO]: Tungi97 lost connection: Disconnected
-[00:27:22] [Server thread/INFO]: Tungi97 left the game
-[00:27:23] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[00:27:23] [Server thread/INFO]: metaphalo left the game
-[00:27:33] [Server thread/INFO]: Stopping server
-[00:27:33] [Server thread/INFO]: Saving players
-[00:27:33] [Server thread/INFO]: Saving worlds
-[00:27:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:27:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:27:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:27:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:27:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:27:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:27:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:27:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:27:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:38:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:38:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:38:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:38:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:38:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:38:40] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[19:38:40] [Server thread/INFO]: Loading properties
+[19:38:40] [Server thread/INFO]: Default game type: SURVIVAL
+[19:38:40] [Server thread/INFO]: Generating keypair
+[19:38:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:38:40] [Server thread/INFO]: Using default channel type
+[19:38:41] [Server thread/INFO]: Preparing level "world"
+[19:38:42] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:38:42] [Server thread/INFO]: Loaded 6 recipes
+[19:38:42] [Server thread/INFO]: Loaded 811 advancements
+[19:38:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:38:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:45] [Server thread/INFO]: Time elapsed: 1811 ms
+[19:38:45] [Server thread/INFO]: Done (3.505s)! For help, type "help"
+[19:39:04] [User Authenticator #1/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
+[19:39:04] [Server thread/INFO]: metaphalo[/127.0.0.1:50254] logged in with entity id 289 at (144.90508287066666, 60.0, 191.74718733354402)
+[19:39:04] [Server thread/INFO]: metaphalo joined the game
+[20:12:52] [User Authenticator #2/INFO]: UUID of player Tungi97 is 5a49c4ab-0ffe-4564-81f0-3f8ca91f3cf7
+[20:12:52] [Server thread/INFO]: Tungi97[/188.62.20.92:57197] logged in with entity id 9716 at (139.03217856199964, 63.0, 185.28051889776856)
+[20:12:52] [Server thread/INFO]: Tungi97 joined the game
+[20:12:57] [Server thread/INFO]: <metaphalo> ayy
+[20:13:04] [Server thread/INFO]: <Tungi97> heee
+[20:13:49] [Server thread/INFO]: <Tungi97> bruuuh vo wo hesch so viel
+[20:13:58] [Server thread/INFO]: <metaphalo> cheatet
+[20:14:00] [Server thread/INFO]: <metaphalo> yooooo
+[20:14:04] [Server thread/INFO]: <metaphalo> alte
+[20:14:09] [Server thread/INFO]: <metaphalo> hesch fortune?
+[20:14:11] [Server thread/INFO]: <Tungi97> upps
+[20:14:17] [Server thread/INFO]: <metaphalo> omg............
+[20:14:18] [Server thread/INFO]: <Tungi97> ya man
+[20:14:25] [Server thread/INFO]: <metaphalo> ah hesch?
+[20:14:26] [Server thread/INFO]: <Tungi97> fortune 3
+[20:14:27] [Server thread/INFO]: <metaphalo> whats app
+[20:14:29] [Server thread/INFO]: <metaphalo> ?
+[20:14:30] [Server thread/INFO]: <Tungi97> chum facetime audi
+[20:14:33] [Server thread/INFO]: <Tungi97> audio
+[20:14:40] [Server thread/INFO]: <metaphalo> jo egal weles
+[20:14:48] [Server thread/INFO]: <Tungi97> ringing...
+[20:16:16] [Server thread/INFO]: [Tungi97: Gave 10 [Diamond Ore] to Tungi97]
+[20:18:13] [Server thread/INFO]: Tungi97 has made the advancement [Cover Me With Diamonds]
+[20:34:03] [Server thread/INFO]: <Tungi97> sleeeeeeeep
+[22:01:10] [Server thread/INFO]: Tungi97 lost connection: Disconnected
+[22:01:10] [Server thread/INFO]: Tungi97 left the game
+[22:01:12] [Server thread/INFO]: metaphalo lost connection: Disconnected
+[22:01:12] [Server thread/INFO]: metaphalo left the game
+[22:01:21] [Server thread/INFO]: Stopping server
+[22:01:21] [Server thread/INFO]: Saving players
+[22:01:21] [Server thread/INFO]: Saving worlds
+[22:01:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:01:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:01:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:01:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:01:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:01:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:01:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:01:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:01:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
