@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2019-08-20 13:17:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-07-18 16:43:06 +0200"
@@ -597,6 +603,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-17 00:14:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2019-08-20 13:17:54 +0200"
     },
     "done": true
   },
@@ -1489,6 +1501,7 @@
       "cooked_beef": "2019-08-15 13:27:40 +0200",
       "mutton": "2019-07-19 14:56:19 +0200",
       "bread": "2019-08-15 13:31:41 +0200",
+      "melon_slice": "2019-08-20 13:27:38 +0200",
       "cooked_salmon": "2019-07-19 14:34:18 +0200"
     },
     "done": false
@@ -1877,15 +1890,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2019-08-19 21:05:45 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2019-08-19 20:23:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2019-08-19 21:05:45 +0200"
     },
     "done": true
   },
@@ -2435,6 +2448,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-07-18 16:49:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2019-08-20 13:17:54 +0200"
     },
     "done": true
   },
