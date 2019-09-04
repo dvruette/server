@@ -870,6 +870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2019-09-04 19:54:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-07 17:03:09 +0200"
@@ -2361,6 +2367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2019-09-04 19:54:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-07-27 21:06:30 +0200"
@@ -2936,6 +2948,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2019-07-18 21:45:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2019-09-04 14:33:42 +0200"
     },
     "done": true
   },

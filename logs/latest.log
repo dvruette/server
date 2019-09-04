@@ -1,244 +1,74 @@
-[19:34:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:34:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:34:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:34:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:34:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:34:29] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[19:34:29] [Server thread/INFO]: Loading properties
-[19:34:29] [Server thread/INFO]: Default game type: SURVIVAL
-[19:34:29] [Server thread/INFO]: Generating keypair
-[19:34:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:34:30] [Server thread/INFO]: Using default channel type
-[19:34:31] [Server thread/INFO]: Preparing level "world"
-[19:34:32] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:35:17] [Server thread/INFO]: Loaded 6 recipes
-[19:35:17] [Server thread/INFO]: Loaded 811 advancements
-[19:35:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:35:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:24] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:24] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:24] [Server thread/INFO]: Preparing spawn area: 0%
-[19:35:25] [Server thread/INFO]: Preparing spawn area: 83%
-[19:35:26] [Server thread/INFO]: Time elapsed: 7714 ms
-[19:35:26] [Server thread/INFO]: Done (54.232s)! For help, type "help"
-[19:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[19:35:51] [User Authenticator #1/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[19:35:52] [Server thread/INFO]: metaphalo[/127.0.0.1:51468] logged in with entity id 211 at (-4054.837702461747, 59.0, 1050.5771600751975)
-[19:35:52] [Server thread/INFO]: metaphalo joined the game
-[19:35:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[19:36:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9384ms or 187 ticks behind
-[19:36:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5848ms or 116 ticks behind
-[19:40:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4486ms or 89 ticks behind
-[19:49:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
-[19:50:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[19:50:57] [Server thread/WARN]: metaphalo moved too quickly! 5.35998916616245,-0.054603761742306745,8.533410623914847
-[19:51:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5164ms or 103 ticks behind
-[19:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[19:52:32] [Server thread/WARN]: metaphalo moved too quickly! -10.127852914333744,-2.6877350127237776,-14.519995404907718
-[19:52:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16221ms or 324 ticks behind
-[19:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6168ms or 123 ticks behind
-[19:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3759ms or 75 ticks behind
-[19:53:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3428ms or 68 ticks behind
-[19:54:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:54:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5838ms or 116 ticks behind
-[19:55:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7959ms or 159 ticks behind
-[19:55:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6628ms or 132 ticks behind
-[19:55:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 10.16553114542512,0.0,-2.195885482645167
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 10.556513119715419,0.0,-2.280342587042071
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 10.94749509416306,0.0,-2.364799690792097
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 11.338477068751672,0.0,-2.4492567939598757
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 11.729459043466704,0.0,-2.5337138966037287
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 12.120441018296333,0.0,-2.618170998775952
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 12.511422993228734,0.0,-2.702628100523782
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 12.902404968253904,0.0,-2.7870852018896244
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 13.293386943361838,0.0,-2.871542302911678
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 13.68436891854526,0.0,-2.9559994036243324
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 14.075350893795985,0.0,-3.040456504058511
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 14.466332869107646,0.0,-3.1249136042420673
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 14.857314844473876,0.0,-3.2093707042000688
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 15.24829681988922,0.0,-3.2938278039550823
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 15.639278795348218,0.0,-3.378284903527401
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 16.030260770847235,0.0,-3.462742002935272
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 16.42124274638263,0.0,-3.5471991021951794
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 16.81222472194986,0.0,-3.6316562013219027
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 17.203206697546193,0.0,-3.716113300328743
-[19:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7572ms or 151 ticks behind
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 10.16553135601589,0.0,-2.195884613360761
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 10.55651333176138,0.0,-2.280341711753181
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 10.947495307517784,0.0,-2.3647988100991597
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 11.338477283284192,0.0,-2.4492559084033587
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 11.729459259059695,0.0,-2.5337130066699274
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 12.120441234843383,0.0,-2.6181701049026174
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 12.511423210634348,0.0,-2.7026272031048393
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 12.902405186432588,0.0,-2.7870843012796627
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 13.293387162236286,0.0,-2.871541399429816
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 13.68436913804544,0.0,-2.9559984975577436
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 14.075351113859142,0.0,-3.0404555956656623
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 14.466333089677391,0.0,-3.1249126937556184
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 14.857315065500188,0.0,-3.209369791829374
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 15.248297041325714,0.0,-3.293826889888578
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 15.639279017154877,0.0,-3.378283987934651
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 16.03026099298677,0.0,-3.4627410859689007
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 16.42124296882139,0.0,-3.5471981839925206
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 16.812224944657828,0.0,-3.631655282006591
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 17.203206920496996,0.0,-3.7161123800120777
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 17.594188896337982,0.0,-3.800569478009777
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 17.985170872180788,0.0,-3.8850265760005414
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 18.376152848024503,0.0,-3.969483673985053
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 18.767134823870038,0.0,-4.05394077196388
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 19.15811679971648,0.0,-4.1383978699376485
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 19.549098775563834,0.0,-4.222854967906812
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 19.940080751413007,0.0,-4.3073120658718835
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 20.331062727263088,0.0,-4.39176916383326
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 20.72204470311317,0.0,-4.4762262617912825
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 21.11302667896416,0.0,-4.560683359746292
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 21.50400865481606,0.0,-4.645140457698631
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 21.89499063066887,0.0,-4.729597555648525
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 22.285972606521682,0.0,-4.8140546535962585
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 22.6769545823754,0.0,-4.898511751542003
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 23.06793655822912,0.0,-4.982968849485985
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 23.45891853408375,0.0,-5.067425947428376
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 23.84990050993838,0.0,-5.1518830453692885
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 24.24088248579301,0.0,-5.236340143308951
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 24.631864461648547,0.0,-5.320797241247419
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 25.022846437504086,0.0,-5.405254339184864
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 25.413828413359624,0.0,-5.489711437121343
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 25.804810389215163,0.0,-5.57416853505697
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 26.19579236507161,0.0,-5.658625632991857
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 26.58677434092806,0.0,-5.743082730926062
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 26.977756316784507,0.0,-5.827539828859642
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 27.368738292640955,0.0,-5.9119969267926535
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 27.759720268497404,0.0,-5.996454024725153
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 28.15070224435385,0.0,-6.080911122657255
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 28.5416842202103,0.0,-6.165368220588903
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 28.932666196067657,0.0,-6.249825318520209
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 29.323648171925015,0.0,-6.334282416451174
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 29.714630147782373,0.0,-6.418739514381855
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 30.10561212363973,0.0,-6.5031966123122515
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 30.496594099497088,0.0,-6.587653710242421
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 30.887576075354445,0.0,-6.672110808172363
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 31.278558051211803,0.0,-6.756567906102134
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 31.66954002706916,0.0,-6.841025004031735
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 32.06052200292652,0.0,-6.925482101961165
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 22.676954598500743,0.0,-4.898511684973755
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 23.0679365743581,0.0,-4.982968782902901
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 23.458918550215458,0.0,-5.067425880831934
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 23.849900526072815,0.0,-5.151882978760909
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 24.240882501930173,0.0,-5.236340076689771
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 24.63186447778753,0.0,-5.320797174618519
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 25.02284645364489,0.0,-5.405254272547211
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 25.413828429502246,0.0,-5.489711370475845
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 25.804810405359603,0.0,-5.574168468404423
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 26.19579238121696,0.0,-5.658625566332944
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 26.58677435707432,0.0,-5.743082664261408
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 26.977756332931676,0.0,-5.827539762189815
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 27.368738308789034,0.0,-5.911996860118222
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 27.75972028464639,0.0,-5.9964539580465726
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 28.15070226050375,0.0,-6.080911055974866
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 28.541684236361107,0.0,-6.1653681539031595
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 28.932666212218464,0.0,-6.249825251831396
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 29.323648188075822,0.0,-6.334282349759633
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 29.71463016393318,0.0,-6.418739447687869
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 30.105612139790537,0.0,-6.503196545616049
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 30.496594115647895,0.0,-6.587653643544229
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 30.887576091505252,0.0,-6.672110741472409
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 31.27855806736261,0.0,-6.756567839400532
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 31.669540043219968,0.0,-6.841024937328655
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 32.060522019077325,0.0,-6.925482035256778
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 32.45150399493468,0.0,-7.009939133184901
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 32.84248597079204,0.0,-7.0943962311130235
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 33.2334679466494,0.0,-7.1788533290411465
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 33.624449922506756,0.0,-7.263310426969213
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 34.01543189836411,0.0,-7.347767524897279
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 34.40641387422147,0.0,-7.432224622825345
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 34.79739585007883,0.0,-7.516681720753411
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 35.188377825936186,0.0,-7.601138818681477
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 35.579359801793544,0.0,-7.685595916609543
-[19:57:02] [Server thread/WARN]: Boat (vehicle of metaphalo) moved too quickly! 35.9703417776509,0.0,-7.770053014537609
-[19:57:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3444ms or 68 ticks behind
-[19:57:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8453ms or 169 ticks behind
-[19:58:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:58:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
-[19:58:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4314ms or 86 ticks behind
-[19:59:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
-[19:59:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3094ms or 61 ticks behind
-[19:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[20:00:17] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[20:00:17] [Server thread/INFO]: metaphalo left the game
-[21:09:26] [User Authenticator #2/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[21:09:27] [Server thread/INFO]: metaphalo[/127.0.0.1:51906] logged in with entity id 13198 at (-4045.9784261709315, 63.0, 1055.699999988079)
-[21:09:27] [Server thread/INFO]: metaphalo joined the game
-[21:09:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
-[21:09:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5322ms or 106 ticks behind
-[21:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[21:11:57] [Server thread/WARN]: metaphalo moved too quickly! -0.6240132437910688,0.0,10.059257975490482
-[21:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11634ms or 232 ticks behind
-[21:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3466ms or 69 ticks behind
-[21:13:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[21:14:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9796ms or 195 ticks behind
-[21:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3379ms or 67 ticks behind
-[21:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[21:15:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
-[21:15:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[21:16:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[21:18:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4674ms or 93 ticks behind
-[21:18:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[21:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[21:19:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
-[21:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[21:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
-[21:23:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
-[21:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2899ms or 57 ticks behind
-[21:23:45] [Server thread/WARN]: metaphalo moved too quickly! 4.882974829088653,1.0,-8.720847579437304
-[21:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6417ms or 128 ticks behind
-[21:26:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[21:26:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[21:27:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[21:28:55] [Server thread/WARN]: metaphalo moved too quickly! -2.013636523545756,-1.7521489003674589,-9.956661989347594
-[21:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3068ms or 61 ticks behind
-[21:34:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4687ms or 93 ticks behind
-[21:44:02] [Server thread/WARN]: metaphalo moved too quickly! -3.8214954790500997,-15.152227640081975,-9.174975285614437
-[21:44:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
-[21:58:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[22:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3934ms or 78 ticks behind
-[22:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[22:01:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[22:31:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3179ms or 63 ticks behind
-[22:31:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
-[22:34:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3728ms or 74 ticks behind
-[22:36:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[22:44:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[22:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[22:54:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[22:55:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[22:55:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2851ms or 57 ticks behind
-[22:56:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5308ms or 106 ticks behind
-[22:56:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[22:57:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2539ms or 50 ticks behind
-[22:57:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[22:57:48] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[22:57:48] [Server thread/INFO]: metaphalo left the game
-[22:57:56] [Server thread/INFO]: Stopping server
-[22:57:56] [Server thread/INFO]: Saving players
-[22:57:56] [Server thread/INFO]: Saving worlds
-[22:57:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:57:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:57:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:57:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:57:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:57:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:57:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:57:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:57:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6091ms or 121 ticks behind
+[00:00:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6608ms or 132 ticks behind
+[00:01:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5400ms or 108 ticks behind
+[00:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9624ms or 192 ticks behind
+[00:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5546ms or 110 ticks behind
+[00:02:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5723ms or 114 ticks behind
+[00:02:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3687ms or 73 ticks behind
+[00:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[00:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3917ms or 78 ticks behind
+[00:03:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3493ms or 69 ticks behind
+[00:03:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6223ms or 124 ticks behind
+[00:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3871ms or 77 ticks behind
+[00:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4189ms or 83 ticks behind
+[00:04:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3042ms or 60 ticks behind
+[00:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[00:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3939ms or 78 ticks behind
+[00:05:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[00:05:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5113ms or 102 ticks behind
+[00:06:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4188ms or 83 ticks behind
+[00:06:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3998ms or 79 ticks behind
+[00:06:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3010ms or 60 ticks behind
+[00:07:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3739ms or 74 ticks behind
+[00:07:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4155ms or 83 ticks behind
+[00:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3823ms or 76 ticks behind
+[00:08:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5654ms or 113 ticks behind
+[00:08:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3707ms or 74 ticks behind
+[00:08:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4007ms or 80 ticks behind
+[00:09:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6076ms or 121 ticks behind
+[00:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4237ms or 84 ticks behind
+[00:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3344ms or 66 ticks behind
+[00:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3550ms or 71 ticks behind
+[00:10:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
+[00:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[00:10:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[00:11:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4853ms or 97 ticks behind
+[00:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4147ms or 82 ticks behind
+[00:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
+[00:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2823ms or 56 ticks behind
+[00:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[00:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4795ms or 95 ticks behind
+[00:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4912ms or 98 ticks behind
+[00:13:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3634ms or 72 ticks behind
+[00:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
+[00:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
+[00:14:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4631ms or 92 ticks behind
+[00:14:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[00:15:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[00:15:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2280ms or 45 ticks behind
+[00:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
+[00:16:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3397ms or 67 ticks behind
+[00:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[00:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3902ms or 78 ticks behind
+[00:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[00:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[00:18:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[00:18:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
+[00:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3394ms or 67 ticks behind
+[00:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2873ms or 57 ticks behind
+[00:19:31] [Server thread/INFO]: metaphalo lost connection: Disconnected
+[00:19:31] [Server thread/INFO]: metaphalo left the game
+[00:19:50] [Server thread/INFO]: Stopping server
+[00:19:50] [Server thread/INFO]: Saving players
+[00:19:50] [Server thread/INFO]: Saving worlds
+[00:19:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:19:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:19:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:19:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:19:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:19:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:19:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
