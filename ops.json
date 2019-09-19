@@ -28,5 +28,11 @@
     "name": "metaphalo",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1c729c3f-8f8f-41f8-a1a1-95e17a0aae40",
+    "name": "Yannickderking",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

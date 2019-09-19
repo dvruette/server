@@ -640,10 +640,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2019-08-19 21:47:19 +0200",
+      "minecraft:blaze": "2019-09-19 21:34:19 +0200",
       "minecraft:skeleton": "2019-07-18 16:55:02 +0200",
       "minecraft:zombie_pigman": "2019-08-29 17:04:58 +0200",
+      "minecraft:magma_cube": "2019-09-19 21:26:09 +0200",
       "minecraft:spider": "2019-08-14 17:11:22 +0200",
       "minecraft:creeper": "2019-08-16 23:23:35 +0200",
+      "minecraft:wither_skeleton": "2019-09-19 21:31:39 +0200",
       "minecraft:silverfish": "2019-07-19 13:38:48 +0200",
       "minecraft:enderman": "2019-08-29 17:21:56 +0200",
       "minecraft:zombie": "2019-07-19 09:56:38 +0200",
@@ -1226,6 +1229,7 @@
       "minecraft:forest": "2019-07-18 16:40:11 +0200",
       "minecraft:mountains": "2019-07-18 16:44:46 +0200",
       "minecraft:taiga": "2019-07-19 13:44:14 +0200",
+      "minecraft:desert": "2019-09-19 21:08:27 +0200",
       "minecraft:beach": "2019-07-19 14:27:31 +0200",
       "minecraft:river": "2019-07-18 16:58:05 +0200",
       "minecraft:wooded_mountains": "2019-07-18 16:57:56 +0200",
@@ -1762,6 +1766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2019-09-19 21:51:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2019-08-29 17:54:47 +0200"
@@ -1910,6 +1920,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-08-29 17:05:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_the_recipe": "2019-09-19 20:23:01 +0200"
     },
     "done": true
   },
@@ -2114,6 +2130,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-07-19 14:38:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2019-09-19 21:51:12 +0200"
     },
     "done": true
   },
@@ -2432,6 +2454,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-07-19 14:41:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-09-19 21:21:40 +0200"
     },
     "done": true
   },
