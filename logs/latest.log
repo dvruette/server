@@ -1,179 +1,87 @@
-[14:59:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:59:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:59:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:59:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:59:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:59:46] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[14:59:46] [Server thread/INFO]: Loading properties
-[14:59:46] [Server thread/INFO]: Default game type: SURVIVAL
-[14:59:46] [Server thread/INFO]: Generating keypair
-[14:59:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:59:46] [Server thread/INFO]: Using default channel type
-[14:59:47] [Server thread/INFO]: Preparing level "world"
-[14:59:47] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:59:48] [Server thread/INFO]: Loaded 6 recipes
-[14:59:48] [Server thread/INFO]: Loaded 811 advancements
-[14:59:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:59:49] [Server thread/INFO]: Preparing spawn area: 0%
-[14:59:49] [Server thread/INFO]: Preparing spawn area: 0%
-[14:59:49] [Server thread/INFO]: Preparing spawn area: 0%
-[14:59:50] [Server thread/INFO]: Time elapsed: 1380 ms
-[14:59:50] [Server thread/INFO]: Done (2.638s)! For help, type "help"
-[15:00:09] [Server thread/INFO]: /advancement (grant|revoke)
-[15:00:09] [Server thread/INFO]: /ban <targets> [<reason>]
-[15:00:09] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[15:00:09] [Server thread/INFO]: /banlist [ips|players]
-[15:00:09] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[15:00:09] [Server thread/INFO]: /clear [<targets>]
-[15:00:09] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[15:00:09] [Server thread/INFO]: /data (get|merge|modify|remove)
-[15:00:09] [Server thread/INFO]: /datapack (disable|enable|list)
-[15:00:09] [Server thread/INFO]: /debug (start|stop)
-[15:00:09] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[15:00:09] [Server thread/INFO]: /deop <targets>
-[15:00:09] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[15:00:09] [Server thread/INFO]: /effect (clear|give)
-[15:00:09] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[15:00:09] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[15:00:09] [Server thread/INFO]: /experience (add|query|set)
-[15:00:09] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[15:00:09] [Server thread/INFO]: /forceload (add|query|remove)
-[15:00:09] [Server thread/INFO]: /function <name>
-[15:00:09] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[15:00:09] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
-[15:00:09] [Server thread/INFO]: /give <targets> <item> [<count>]
-[15:00:09] [Server thread/INFO]: /help [<command>]
-[15:00:09] [Server thread/INFO]: /kick <targets> [<reason>]
-[15:00:09] [Server thread/INFO]: /kill <targets>
-[15:00:09] [Server thread/INFO]: /list [uuids]
-[15:00:09] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
-[15:00:09] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[15:00:09] [Server thread/INFO]: /me <action>
-[15:00:09] [Server thread/INFO]: /msg <targets> <message>
-[15:00:09] [Server thread/INFO]: /op <targets>
-[15:00:09] [Server thread/INFO]: /pardon <targets>
-[15:00:09] [Server thread/INFO]: /pardon-ip <target>
-[15:00:09] [Server thread/INFO]: /particle <name> [<pos>]
-[15:00:09] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[15:00:09] [Server thread/INFO]: /recipe (give|take)
-[15:00:09] [Server thread/INFO]: /reload
-[15:00:09] [Server thread/INFO]: /replaceitem (block|entity)
-[15:00:09] [Server thread/INFO]: /save-all [flush]
-[15:00:09] [Server thread/INFO]: /save-off
-[15:00:09] [Server thread/INFO]: /save-on
-[15:00:09] [Server thread/INFO]: /say <message>
-[15:00:09] [Server thread/INFO]: /schedule function <function> <time>
-[15:00:09] [Server thread/INFO]: /scoreboard (objectives|players)
-[15:00:09] [Server thread/INFO]: /seed
-[15:00:09] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[15:00:09] [Server thread/INFO]: /setidletimeout <minutes>
-[15:00:09] [Server thread/INFO]: /setworldspawn [<pos>]
-[15:00:09] [Server thread/INFO]: /spawnpoint [<targets>]
-[15:00:09] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
-[15:00:09] [Server thread/INFO]: /stop
-[15:00:09] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[15:00:09] [Server thread/INFO]: /summon <entity> [<pos>]
-[15:00:09] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[15:00:09] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[15:00:09] [Server thread/INFO]: /teammsg <message>
-[15:00:09] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[15:00:09] [Server thread/INFO]: /tell -> msg
-[15:00:09] [Server thread/INFO]: /tellraw <targets> <message>
-[15:00:09] [Server thread/INFO]: /time (add|query|set)
-[15:00:09] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[15:00:09] [Server thread/INFO]: /tm -> teammsg
-[15:00:09] [Server thread/INFO]: /tp -> teleport
-[15:00:09] [Server thread/INFO]: /trigger <objective> [add|set]
-[15:00:09] [Server thread/INFO]: /w -> msg
-[15:00:09] [Server thread/INFO]: /weather (clear|rain|thunder)
-[15:00:09] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[15:00:09] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[15:00:09] [Server thread/INFO]: /xp -> experience
-[15:00:40] [User Authenticator #1/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[15:00:40] [Server thread/INFO]: metaphalo[/127.0.0.1:60666] logged in with entity id 345 at (146.99607639667826, 60.0, 195.61872788606826)
-[15:00:40] [Server thread/INFO]: metaphalo joined the game
-[15:11:29] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[15:11:29] [Server thread/INFO]: metaphalo left the game
-[16:33:03] [User Authenticator #2/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[16:33:03] [Server thread/INFO]: metaphalo[/127.0.0.1:61084] logged in with entity id 1816 at (137.33228285511822, 60.0, 191.9738633313791)
-[16:33:03] [Server thread/INFO]: metaphalo joined the game
-[16:57:56] [Server thread/WARN]: metaphalo moved too quickly! -1483.603779224956,29.23363200604248,-84.45219857512971
-[16:57:57] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[16:57:57] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[17:23:01] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[17:23:01] [Server thread/INFO]: metaphalo left the game
-[17:24:13] [User Authenticator #3/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[17:24:13] [Server thread/INFO]: metaphalo[/127.0.0.1:61197] logged in with entity id 7907 at (239.0580754458052, 1.0, 0.47155669891925417)
-[17:24:13] [Server thread/INFO]: metaphalo joined the game
-[17:25:07] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[17:25:07] [Server thread/INFO]: metaphalo left the game
-[17:39:26] [User Authenticator #4/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[17:39:26] [Server thread/INFO]: metaphalo[/127.0.0.1:61232] logged in with entity id 7914 at (237.76477066246144, 1.0, -1.6656831219548551)
-[17:39:26] [Server thread/INFO]: metaphalo joined the game
-[17:46:43] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[17:46:43] [Server thread/INFO]: metaphalo left the game
-[17:49:10] [User Authenticator #5/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[17:49:10] [Server thread/INFO]: metaphalo[/127.0.0.1:61258] logged in with entity id 7960 at (235.88926464681336, 1.875, 0.5044216359612962)
-[17:49:10] [Server thread/INFO]: metaphalo joined the game
-[17:57:39] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[17:57:39] [Server thread/INFO]: metaphalo left the game
-[17:58:05] [User Authenticator #6/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[17:58:05] [Server thread/INFO]: metaphalo[/127.0.0.1:61293] logged in with entity id 8125 at (240.90252605968445, 6.0, 2.093469667728998)
-[17:58:05] [Server thread/INFO]: metaphalo joined the game
-[18:01:39] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[18:01:39] [Server thread/INFO]: metaphalo left the game
-[18:02:31] [User Authenticator #7/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[18:02:31] [Server thread/INFO]: metaphalo[/127.0.0.1:61316] logged in with entity id 8157 at (233.75840097209098, 2.0, 0.11364563593713757)
-[18:02:31] [Server thread/INFO]: metaphalo joined the game
-[18:03:26] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[18:03:26] [Server thread/INFO]: metaphalo left the game
-[18:06:20] [User Authenticator #8/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[18:06:20] [Server thread/INFO]: metaphalo[/127.0.0.1:61333] logged in with entity id 8161 at (238.61244328709705, 8.0, -1.4058477016753266)
-[18:06:20] [Server thread/INFO]: metaphalo joined the game
-[18:07:07] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[18:07:07] [Server thread/INFO]: metaphalo left the game
-[18:07:29] [User Authenticator #9/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[18:07:29] [Server thread/INFO]: metaphalo[/127.0.0.1:61347] logged in with entity id 8170 at (238.24199956345467, 9.0, 1.5141646604247028)
-[18:07:29] [Server thread/INFO]: metaphalo joined the game
-[18:27:57] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[18:27:57] [Server thread/INFO]: metaphalo left the game
-[18:30:46] [User Authenticator #10/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[18:30:46] [Server thread/INFO]: metaphalo[/127.0.0.1:61403] logged in with entity id 8515 at (236.2552315941273, 4.0, -4.705011392267528)
-[18:30:46] [Server thread/INFO]: metaphalo joined the game
-[18:54:51] [Server thread/WARN]: metaphalo moved too quickly! 10.305731866050422,0.49520087700591375,-0.005011884490606633
-[18:55:15] [Server thread/WARN]: metaphalo moved too quickly! -1483.3573745367496,29.23363200604248,-84.51999457860379
-[18:55:15] [Server thread/WARN]: metaphalo moved too quickly! -1483.3573745367496,29.23363200604248,-84.51999457860379
-[18:55:15] [Server thread/WARN]: metaphalo moved too quickly! -1483.3573745367496,29.23363200604248,-84.51999457860379
-[18:55:15] [Server thread/WARN]: metaphalo moved too quickly! -1483.3573745367496,29.23363200604248,-84.51999457860379
-[19:09:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[19:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3021ms or 60 ticks behind
-[19:19:01] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[19:19:01] [Server thread/INFO]: metaphalo left the game
-[19:29:00] [User Authenticator #11/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[19:29:00] [Server thread/INFO]: metaphalo[/127.0.0.1:61525] logged in with entity id 17577 at (144.30620137873194, 62.0, 199.6136501289134)
-[19:29:00] [Server thread/INFO]: metaphalo joined the game
-[19:38:01] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[19:38:01] [Server thread/INFO]: metaphalo left the game
-[19:40:15] [User Authenticator #12/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
-[19:40:15] [Server thread/INFO]: metaphalo[/127.0.0.1:61553] logged in with entity id 18907 at (141.53634461426807, 60.0, 205.96419379898947)
-[19:40:15] [Server thread/INFO]: metaphalo joined the game
-[19:42:14] [Server thread/WARN]: metaphalo moved wrongly!
-[19:42:14] [Server thread/WARN]: metaphalo moved wrongly!
-[19:42:14] [Server thread/WARN]: metaphalo moved wrongly!
-[19:42:59] [Server thread/WARN]: metaphalo moved wrongly!
-[19:43:03] [Server thread/WARN]: metaphalo moved wrongly!
-[19:43:31] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[19:43:31] [Server thread/INFO]: metaphalo left the game
-[19:43:41] [Server thread/INFO]: Stopping the server
-[19:43:41] [Server thread/INFO]: Stopping server
-[19:43:41] [Server thread/INFO]: Saving players
-[19:43:41] [Server thread/INFO]: Saving worlds
-[19:43:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:43:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:43:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:43:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:43:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:43:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:43:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:52:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:52:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:52:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:52:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:52:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:52:36] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[14:52:36] [Server thread/INFO]: Loading properties
+[14:52:36] [Server thread/INFO]: Default game type: SURVIVAL
+[14:52:36] [Server thread/INFO]: Generating keypair
+[14:52:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:52:37] [Server thread/INFO]: Using default channel type
+[14:52:39] [Server thread/INFO]: Preparing level "world"
+[14:52:39] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:52:42] [Server thread/INFO]: Loaded 6 recipes
+[14:52:43] [Server thread/INFO]: Loaded 811 advancements
+[14:52:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:56] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[14:52:57] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:57] [Server thread/INFO]: Preparing spawn area: 0%
+[14:52:58] [Server thread/INFO]: Preparing spawn area: 10%
+[14:52:58] [Server thread/INFO]: Preparing spawn area: 10%
+[14:53:01] [Server thread/INFO]: Preparing spawn area: 57%
+[14:53:01] [Server thread/INFO]: Preparing spawn area: 57%
+[14:53:01] [Server thread/INFO]: Preparing spawn area: 57%
+[14:53:01] [Server thread/INFO]: Preparing spawn area: 57%
+[14:53:01] [Server thread/INFO]: Preparing spawn area: 57%
+[14:53:01] [Server thread/INFO]: Preparing spawn area: 57%
+[14:53:25] [Server thread/INFO]: Time elapsed: 36750 ms
+[14:53:25] [Server thread/INFO]: Done (46.544s)! For help, type "help"
+[14:53:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[14:53:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8305ms or 166 ticks behind
+[14:54:16] [User Authenticator #1/INFO]: UUID of player Tungi97 is 5a49c4ab-0ffe-4564-81f0-3f8ca91f3cf7
+[14:54:17] [Server thread/INFO]: Tungi97[/127.0.0.1:65080] logged in with entity id 335 at (145.36027883404634, 60.5625, 192.39514874265018)
+[14:54:17] [Server thread/INFO]: Tungi97 joined the game
+[14:54:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[14:54:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16140ms or 322 ticks behind
+[14:55:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12888ms or 257 ticks behind
+[14:55:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11108ms or 222 ticks behind
+[14:56:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9792ms or 195 ticks behind
+[14:56:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6522ms or 130 ticks behind
+[14:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6459ms or 129 ticks behind
+[14:57:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5330ms or 106 ticks behind
+[14:57:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5076ms or 101 ticks behind
+[14:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4258ms or 85 ticks behind
+[14:58:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5964ms or 119 ticks behind
+[14:59:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47572ms or 951 ticks behind
+[14:59:46] [Server thread/WARN]: Tungi97 moved too quickly! -1483.2987419033686,29.23363200604248,-84.29788386036188
+[14:59:49] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[14:59:49] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[14:59:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28082ms or 561 ticks behind
+[15:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3756ms or 75 ticks behind
+[15:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15086ms or 301 ticks behind
+[15:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[15:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7547ms or 150 ticks behind
+[15:02:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12371ms or 247 ticks behind
+[15:03:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10179ms or 203 ticks behind
+[15:05:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2665ms or 53 ticks behind
+[15:06:19] [Server thread/INFO]: Tungi97 lost connection: Disconnected
+[15:06:19] [Server thread/INFO]: Tungi97 left the game
+[15:06:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22183ms or 443 ticks behind
+[15:06:43] [Server thread/INFO]: Stopping server
+[15:06:43] [Server thread/INFO]: Saving players
+[15:06:43] [Server thread/INFO]: Saving worlds
+[15:06:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[15:06:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:06:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[15:06:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:06:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[15:06:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:06:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:06:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:06:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
