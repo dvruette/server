@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-02-09 16:35:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2019-09-19 22:03:24 +0200"
@@ -670,6 +676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-02-09 16:35:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-19 22:03:24 +0200"
@@ -683,6 +695,7 @@
       "minecraft:zombie_pigman": "2019-09-19 22:02:48 +0200",
       "minecraft:ghast": "2019-09-19 21:45:33 +0200",
       "minecraft:magma_cube": "2019-09-19 21:26:20 +0200",
+      "minecraft:creeper": "2020-02-09 16:36:42 +0100",
       "minecraft:wither_skeleton": "2019-09-19 21:28:24 +0200",
       "minecraft:zombie": "2019-09-19 20:50:56 +0200"
     },
@@ -727,6 +740,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2019-09-19 20:36:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-02-09 16:35:17 +0100"
     },
     "done": true
   },
@@ -835,6 +854,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-09-19 22:03:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-02-09 16:35:17 +0100"
     },
     "done": true
   },
