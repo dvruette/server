@@ -1,23 +1,46 @@
-[22:09:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:09:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:09:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:09:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:10:01] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[22:10:01] [Server thread/INFO]: Loading properties
-[22:10:01] [Server thread/INFO]: Default game type: SURVIVAL
-[22:10:01] [Server thread/INFO]: Generating keypair
-[22:10:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:10:02] [Server thread/INFO]: Using default channel type
-[22:10:02] [Server thread/INFO]: Preparing level "world"
-[22:10:03] [Server thread/INFO]: Reloading ResourceManager: Default
-[22:10:18] [Server thread/INFO]: Loaded 6 recipes
-[22:10:18] [Server thread/INFO]: Loaded 811 advancements
-[22:10:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:10:20] [Server thread/INFO]: Preparing spawn area: 0%
-[22:10:20] [Server thread/INFO]: Preparing spawn area: 0%
-[22:10:20] [Server thread/INFO]: Preparing spawn area: 0%
-[22:10:20] [Server thread/INFO]: Preparing spawn area: 0%
-[22:10:20] [Server thread/INFO]: Preparing spawn area: 0%
-[22:10:21] [Server thread/INFO]: Preparing spawn area: 0%
-[22:10:21] [Server thread/INFO]: Time elapsed: 3008 ms
-[22:10:21] [Server thread/INFO]: Done (18.937s)! For help, type "help"
+[00:01:56] [Server thread/INFO]: [metaphalo: Set Tungi97's game mode to Survival Mode]
+[00:03:52] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 11.645043289163482,0.0,0.0
+[00:03:52] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 13.334215487517781,0.0,0.0
+[00:03:55] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 11.096043626528001,0.0,0.0
+[00:03:55] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 12.95570897737906,0.0,0.0
+[00:03:55] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 14.818171831970545,0.0,0.0
+[00:03:55] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 16.683377357868125,0.0,0.0
+[00:03:55] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 18.55127174477923,0.0,0.0
+[00:03:55] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 20.421802124505746,0.0,0.0
+[00:03:55] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 22.294916682487155,0.0,0.0
+[00:03:55] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 24.170564510068033,0.0,0.0
+[00:04:05] [Server thread/INFO]: metaphalo lost connection: Disconnected
+[00:04:05] [Server thread/INFO]: metaphalo left the game
+[00:04:09] [User Authenticator #4/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
+[00:04:09] [Server thread/INFO]: metaphalo[/127.0.0.1:64225] logged in with entity id 183285 at (14.000473757419881, 55.577493250138765, 23.783626137628016)
+[00:04:09] [Server thread/INFO]: metaphalo joined the game
+[00:04:10] [Server thread/INFO]: Tungi97 lost connection: Disconnected
+[00:04:10] [Server thread/INFO]: Tungi97 left the game
+[00:04:13] [User Authenticator #5/INFO]: UUID of player Tungi97 is 5a49c4ab-0ffe-4564-81f0-3f8ca91f3cf7
+[00:04:13] [Server thread/INFO]: Tungi97[/178.194.33.5:50121] logged in with entity id 183288 at (11.263024109582148, 55.577493250138765, 24.324169984340706)
+[00:04:13] [Server thread/INFO]: Tungi97 joined the game
+[00:04:24] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 10.489683118457691,0.0,0.0
+[00:04:24] [Server thread/WARN]: Boat (vehicle of Tungi97) moved too quickly! 12.025839935786763,0.0,0.0
+[00:04:32] [Server thread/INFO]: Tungi97 lost connection: Disconnected
+[00:04:32] [Server thread/INFO]: Tungi97 left the game
+[00:04:34] [User Authenticator #6/INFO]: UUID of player Tungi97 is 5a49c4ab-0ffe-4564-81f0-3f8ca91f3cf7
+[00:04:34] [Server thread/INFO]: Tungi97[/178.194.33.5:50126] logged in with entity id 183436 at (182.67860085774802, 55.577493250138765, 24.619008674186237)
+[00:04:34] [Server thread/INFO]: Tungi97 joined the game
+[00:04:49] [Server thread/WARN]: metaphalo moved too quickly! -1483.2310534683706,29.23363200604248,-84.4955011143352
+[00:04:51] [Server thread/WARN]: Tungi97 moved too quickly! -1483.124276204755,29.23363200604248,-84.41637417412153
+[00:14:10] [Server thread/INFO]: Tungi97 lost connection: Disconnected
+[00:14:10] [Server thread/INFO]: Tungi97 left the game
+[00:14:49] [Server thread/INFO]: metaphalo lost connection: Disconnected
+[00:14:49] [Server thread/INFO]: metaphalo left the game
+[00:14:56] [Server thread/INFO]: Stopping server
+[00:14:56] [Server thread/INFO]: Saving players
+[00:14:56] [Server thread/INFO]: Saving worlds
+[00:14:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:14:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:14:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:14:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:14:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:14:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:14:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:14:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:14:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
