@@ -1,99 +1,23 @@
-[16:26:03] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:26:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:26:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:26:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:26:03] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:26:13] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[16:26:13] [Server thread/INFO]: Loading properties
-[16:26:13] [Server thread/INFO]: Default game type: SURVIVAL
-[16:26:13] [Server thread/INFO]: Generating keypair
-[16:26:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:26:13] [Server thread/INFO]: Using default channel type
-[16:26:15] [Server thread/INFO]: Preparing level "world"
-[16:26:15] [Server thread/INFO]: Reloading ResourceManager: Default
-[16:26:21] [Server thread/INFO]: Loaded 6 recipes
-[16:26:22] [Server thread/INFO]: Loaded 811 advancements
-[16:26:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:43] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:26:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:26:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:26:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:26:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:26:48] [User Authenticator #1/INFO]: UUID of player Tungi97 is 5a49c4ab-0ffe-4564-81f0-3f8ca91f3cf7
-[16:26:49] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:49] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:49] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:50] [Server thread/INFO]: Preparing spawn area: 10%
-[16:26:50] [Server thread/INFO]: Preparing spawn area: 10%
-[16:26:50] [Server thread/INFO]: Preparing spawn area: 32%
-[16:26:51] [Server thread/INFO]: Preparing spawn area: 52%
-[16:27:13] [Server thread/INFO]: Time elapsed: 39777 ms
-[16:27:13] [Server thread/INFO]: Done (58.047s)! For help, type "help"
-[16:27:17] [Server thread/INFO]: Tungi97[/127.0.0.1:58276] logged in with entity id 226 at (-3397.1925488450634, 63.0, 790.6733454978465)
-[16:27:17] [Server thread/INFO]: Tungi97 joined the game
-[16:27:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10515ms or 210 ticks behind
-[16:27:24] [Server thread/INFO]: Tungi97 lost connection: Timed out
-[16:27:24] [Server thread/INFO]: Tungi97 left the game
-[16:27:40] [User Authenticator #2/INFO]: UUID of player Tungi97 is 5a49c4ab-0ffe-4564-81f0-3f8ca91f3cf7
-[16:27:42] [Server thread/INFO]: Tungi97[/127.0.0.1:58299] logged in with entity id 247 at (-3397.1925488450634, 63.0, 790.6733454978465)
-[16:27:42] [Server thread/INFO]: Tungi97 joined the game
-[16:28:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 58893ms or 1177 ticks behind
-[16:29:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25717ms or 514 ticks behind
-[16:29:46] [User Authenticator #3/INFO]: UUID of player Yannickderking is 1c729c3f-8f8f-41f8-a1a1-95e17a0aae40
-[16:29:47] [Server thread/INFO]: Yannickderking[/25.86.249.87:52329] logged in with entity id 635 at (149.32509897614804, 60.0, 193.32789716078386)
-[16:29:47] [Server thread/INFO]: Yannickderking joined the game
-[16:29:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23698ms or 473 ticks behind
-[16:30:11] [Server thread/INFO]: [Tungi97: Teleported Tungi97 to Yannickderking]
-[16:30:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26870ms or 537 ticks behind
-[16:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20270ms or 405 ticks behind
-[16:31:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16026ms or 320 ticks behind
-[16:32:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17486ms or 349 ticks behind
-[16:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11903ms or 238 ticks behind
-[16:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10821ms or 216 ticks behind
-[16:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10337ms or 206 ticks behind
-[16:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4420ms or 88 ticks behind
-[16:34:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5551ms or 111 ticks behind
-[16:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10383ms or 207 ticks behind
-[16:35:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10982ms or 219 ticks behind
-[16:35:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10304ms or 206 ticks behind
-[16:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20189ms or 403 ticks behind
-[16:36:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17715ms or 354 ticks behind
-[16:37:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10866ms or 217 ticks behind
-[16:37:27] [Server thread/INFO]: <Yannickderking> gn
-[16:37:30] [Server thread/INFO]: <Tungi97> gn
-[16:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14322ms or 286 ticks behind
-[16:38:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23568ms or 471 ticks behind
-[16:38:13] [Server thread/WARN]: Tungi97 moved too quickly! 9.070856957066695,-0.07520089011894981,4.448536816879539
-[16:38:13] [Server thread/WARN]: Yannickderking moved too quickly! 6.759899885276866,-0.7967356006687112,7.417424349045405
-[16:38:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19079ms or 381 ticks behind
-[16:39:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16228ms or 324 ticks behind
-[16:39:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15319ms or 306 ticks behind
-[16:40:13] [Server thread/INFO]: Tungi97 lost connection: Disconnected
-[16:40:13] [Server thread/INFO]: Tungi97 left the game
-[16:40:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9844ms or 196 ticks behind
-[16:40:20] [Server thread/INFO]: Stopping server
+[22:09:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:09:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:09:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:09:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:10:01] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[22:10:01] [Server thread/INFO]: Loading properties
+[22:10:01] [Server thread/INFO]: Default game type: SURVIVAL
+[22:10:01] [Server thread/INFO]: Generating keypair
+[22:10:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:10:02] [Server thread/INFO]: Using default channel type
+[22:10:02] [Server thread/INFO]: Preparing level "world"
+[22:10:03] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:10:18] [Server thread/INFO]: Loaded 6 recipes
+[22:10:18] [Server thread/INFO]: Loaded 811 advancements
+[22:10:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:21] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:21] [Server thread/INFO]: Time elapsed: 3008 ms
+[22:10:21] [Server thread/INFO]: Done (18.937s)! For help, type "help"
