@@ -1,25 +1,66 @@
-[00:13:02] [Server thread/INFO]: Villager axw['Weaponsmith'/91161, l='world', x=-14.31, y=54.90, z=44.95] died, message: 'Weaponsmith tried to swim in lava'
-[00:27:45] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-166, y=80, z=342} fk{x=-166, y=81, z=342}
-[00:57:07] [Server thread/WARN]: metaphalo moved wrongly!
-[01:39:46] [Server thread/INFO]: Villager axw['Villager'/27, l='world', x=97.29, y=65.00, z=161.95] died, message: 'Villager hit the ground too hard'
-[03:36:38] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-164, y=31, z=331} fk{x=-157, y=31, z=331}
-[04:12:21] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-172, y=26, z=340} fk{x=-172, y=25, z=340}
-[04:12:21] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-172, y=26, z=340} fk{x=-172, y=25, z=340}
-[04:12:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-173, y=25, z=339} fk{x=-173, y=24, z=339}
-[04:12:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-173, y=25, z=339} fk{x=-173, y=24, z=339}
-[04:12:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-173, y=25, z=339} fk{x=-173, y=24, z=339}
-[04:12:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-173, y=25, z=339} fk{x=-173, y=24, z=339}
-[04:18:35] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[04:18:35] [Server thread/INFO]: metaphalo left the game
-[04:18:44] [Server thread/INFO]: Stopping server
-[04:18:44] [Server thread/INFO]: Saving players
-[04:18:44] [Server thread/INFO]: Saving worlds
-[04:18:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:18:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:18:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:53:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:53:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:53:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:53:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:53:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:53:52] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:53:52] [Server thread/INFO]: Loading properties
+[13:53:52] [Server thread/INFO]: Default game type: SURVIVAL
+[13:53:52] [Server thread/INFO]: Generating keypair
+[13:53:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:53:53] [Server thread/INFO]: Using default channel type
+[13:53:53] [Server thread/INFO]: Preparing level "world"
+[13:53:53] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:53:56] [Server thread/INFO]: Loaded 6 recipes
+[13:53:56] [Server thread/INFO]: Loaded 825 advancements
+[13:53:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:53:57] [Server thread/INFO]: Preparing spawn area: 0%
+[13:53:57] [Server thread/INFO]: Preparing spawn area: 0%
+[13:53:57] [Server thread/INFO]: Preparing spawn area: 0%
+[13:53:58] [Server thread/INFO]: Time elapsed: 1487 ms
+[13:53:58] [Server thread/INFO]: Done (4.877s)! For help, type "help"
+[13:56:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b509086[id=<null>,name=metaphalo,properties={},legacy=false] (/127.0.0.1:53170) lost connection: Disconnected
+[13:57:32] [User Authenticator #1/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
+[13:57:32] [Server thread/INFO]: metaphalo[/127.0.0.1:53171] logged in with entity id 227 at (-168.37796947051186, 32.0, 338.93203566808944)
+[13:57:32] [Server thread/INFO]: metaphalo joined the game
+[13:57:33] [Server thread/INFO]: metaphalo has reached the goal [Beaconator]
+[14:29:59] [Server thread/INFO]: metaphalo lost connection: Disconnected
+[14:29:59] [Server thread/INFO]: metaphalo left the game
+[14:31:24] [User Authenticator #2/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
+[14:31:24] [Server thread/INFO]: metaphalo[/127.0.0.1:53304] logged in with entity id 12609 at (-174.04284587852447, 32.0, 339.992561848975)
+[14:31:24] [Server thread/INFO]: metaphalo joined the game
+[16:27:51] [Server thread/WARN]: metaphalo moved too quickly! -1483.0441898586575,29.23363200604248,-84.35326320996968
+[16:27:52] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:27:52] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[16:30:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:31:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5487ms or 109 ticks behind
+[16:54:18] [Server thread/INFO]: metaphalo lost connection: Disconnected
+[16:54:18] [Server thread/INFO]: metaphalo left the game
+[16:54:46] [User Authenticator #3/INFO]: UUID of player metaphalo is 569a2030-377d-4279-be52-7ef411914cce
+[16:54:46] [Server thread/INFO]: metaphalo[/127.0.0.1:53819] logged in with entity id 62913 at (-164.8857399806683, 32.0, 348.75685533115137)
+[16:54:46] [Server thread/INFO]: metaphalo joined the game
+[17:16:52] [Server thread/WARN]: Error while deserializing minecraft:pine_tree
+[17:16:52] [Server thread/WARN]: Error while deserializing minecraft:taiga_grass
+[17:16:52] [Server thread/WARN]: Error while deserializing minecraft:pine_tree
+[17:16:52] [Server thread/WARN]: Error while deserializing minecraft:pumpkin_pile
+[17:16:52] [Server thread/WARN]: Error while deserializing minecraft:spruce_tree
+[17:16:52] [Server thread/WARN]: Error while deserializing minecraft:sweet_berry_bush
+[17:16:52] [Server thread/WARN]: Error while deserializing minecraft:pumpkin_pile
+[17:16:52] [Server thread/WARN]: Error while deserializing minecraft:pine_tree
+[17:16:52] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[17:16:52] [Server thread/WARN]: Error while deserializing minecraft:pine_tree
+[17:16:52] [Server thread/WARN]: Error while deserializing minecraft:pine_tree
+[17:23:46] [Server thread/INFO]: metaphalo lost connection: Disconnected
+[17:23:46] [Server thread/INFO]: metaphalo left the game
+[17:23:51] [Server thread/INFO]: Stopping server
+[17:23:51] [Server thread/INFO]: Saving players
+[17:23:51] [Server thread/INFO]: Saving worlds
+[17:23:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:23:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:23:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:23:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:23:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:23:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:23:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:23:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:23:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
