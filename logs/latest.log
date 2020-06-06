@@ -1,16 +1,25 @@
-[00:01:53] [Server thread/INFO]: QRandomness lost connection: Disconnected
-[00:01:53] [Server thread/INFO]: QRandomness left the game
-[00:02:15] [Server thread/INFO]: metaphalo lost connection: Disconnected
-[00:02:15] [Server thread/INFO]: metaphalo left the game
-[00:02:21] [Server thread/INFO]: Stopping server
-[00:02:21] [Server thread/INFO]: Saving players
-[00:02:21] [Server thread/INFO]: Saving worlds
-[00:02:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:02:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:02:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:02:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:02:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:02:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:02:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:02:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:02:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:13:02] [Server thread/INFO]: Villager axw['Weaponsmith'/91161, l='world', x=-14.31, y=54.90, z=44.95] died, message: 'Weaponsmith tried to swim in lava'
+[00:27:45] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-166, y=80, z=342} fk{x=-166, y=81, z=342}
+[00:57:07] [Server thread/WARN]: metaphalo moved wrongly!
+[01:39:46] [Server thread/INFO]: Villager axw['Villager'/27, l='world', x=97.29, y=65.00, z=161.95] died, message: 'Villager hit the ground too hard'
+[03:36:38] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-164, y=31, z=331} fk{x=-157, y=31, z=331}
+[04:12:21] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-172, y=26, z=340} fk{x=-172, y=25, z=340}
+[04:12:21] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-172, y=26, z=340} fk{x=-172, y=25, z=340}
+[04:12:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-173, y=25, z=339} fk{x=-173, y=24, z=339}
+[04:12:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-173, y=25, z=339} fk{x=-173, y=24, z=339}
+[04:12:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-173, y=25, z=339} fk{x=-173, y=24, z=339}
+[04:12:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-173, y=25, z=339} fk{x=-173, y=24, z=339}
+[04:18:35] [Server thread/INFO]: metaphalo lost connection: Disconnected
+[04:18:35] [Server thread/INFO]: metaphalo left the game
+[04:18:44] [Server thread/INFO]: Stopping server
+[04:18:44] [Server thread/INFO]: Saving players
+[04:18:44] [Server thread/INFO]: Saving worlds
+[04:18:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:18:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:18:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:18:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
